@@ -41,7 +41,12 @@ public class Main {
 
         // Transaction
         //ACID - Atomicity, Consistency, Isolation, Durability
-        //
+
+
+        //efekty wspolbieznosci transakcji
+        //dirty read
+        //non repatable read
+        //phantom read
 
 
 
