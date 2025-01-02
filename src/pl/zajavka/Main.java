@@ -39,6 +39,10 @@ public class Main {
         // ARCHITEKTURA TROJWARSTWOWA (three tier/ three layer)
         // DAO - Data Access Object
 
+        // Transaction
+        //ACID - Atomicity, Consistency, Isolation, Durability
+        //
+
 
 
 
