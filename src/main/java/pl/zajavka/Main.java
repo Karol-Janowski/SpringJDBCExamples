@@ -8,7 +8,7 @@ public class Main {
 
         ApplicationContext context = new AnnotationConfigApplicationContext(DataSourceConfiguration.class);
 
-        SimpleJdbcCallExample example = context.getBean(SimpleJdbcCallExample.class);
+        NamedParameterJdbcTemplateExamples example = context.getBean(NamedParameterJdbcTemplateExamples.class);
         example.example();
 
     }

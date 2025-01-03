@@ -17,7 +17,7 @@ ext {
 
 repositories {
     mavenCentral()
-    // TODO krogowski remove after upgrade to Spring 6 official
+//     TODO krogowski remove after upgrade to Spring 6 official
     maven { url 'https://repo.spring.io/milestone' }
     maven { url 'https://repo.spring.io/snapshot' }
 }
